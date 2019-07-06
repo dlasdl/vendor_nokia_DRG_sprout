@@ -92,7 +92,6 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     embms \
     GCam \
-    NCamera \
     CNEService \
     dpmserviceapp \
     ims \
